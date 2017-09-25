@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Maku\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        revision="26.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\retrofit-2.2.0-43d2a054dbcea20c0f0aa45fe42038e882242fdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\4c4ab24268da6431df893a0f131bffa6065cca3d\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ef224418f7fa2cc78c050698e441ed55b2acec99.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\62aec427fb620969d4e85dc08fd043146402d414\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-99aba4a083ef4e5e3801eb70afb4c803c81c2bad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\7efa2289cadd7a01ac1471ccc6c012aa4169dce8\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-bd27c45244a86674ad321fec935e79e68753ad2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-simplexml\2.2.0\3585dc3d225e2ca03af1a2cece159eb511fa0528\converter-simplexml-2.2.0.jar"
+        revision="26.0.1"
+        sha1="3585dc3d225e2ca03af1a2cece159eb511fa0528">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\converter-simplexml-2.2.0-a7bea72cac3fd51b5129f27fba28081ccfcc629b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        revision="26.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\simple-xml-2.7.1-612d5d58b210c562b0ab3f8ccb95d01c162b157c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\a456515d5809dc5f7a69b8bc985e377289d90dbe\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-06e56b8413ceec0cae4f995547c7dd6318c2031a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\233b719139c2e57e8bc366449b132e53befb62ec\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8a64b609fb33cc4713e3b438ea0119bce6a15dfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\473b1f333e9f822023226309aa790382c0ecf2e1\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6ef17432022d6cd6d98e91969a62c586629210c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-3.6.0-834a31426eab7158ef959d3937f57e20fe2fbf54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\1852346ba2262444d831708ad907a295e1024e96\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d8b80b8ef3f57894b2ae3310c54e0613976ab942.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        revision="26.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.11.0-dda6e44541b74fb2e122778e67a4c76aba22daeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\870256a106c20e9169c36237386d92f4caa11348\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0d474ec19a18b43bfffc18a9b4209f6c455cd6d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\e454113e31af3913f0b5578d689b5161ec7af928\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e9d137b8468cf72befddcef8171b7121f1189681.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\picasso-2.5.2-4a504e9c4f867ae5c2442fcb6d91f6bedbfb2e40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\4f45d1c265eda88086c4f69232052c46f6306615\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ecec51d3687913cb50dda4150d5573eea17764ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\d03b8f78957fab655c5fb15e09a2b8cb5ffd0ba5\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-55dd2af955632680cd653cbdc00e1f2dc6650126.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-e65821e747822076d47b1919c557c2b1db77b02c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\f2733f4fba8951972a72a71f58fdd35c39e0a102\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-3446c00771367d954823d733578e5975397ba6b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\458e49848f5f9b159143e6586ca05156dc32b245\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d4d3d9dc209c8d09307ea7777b0d16a6875a07eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-697021c92f68e18773ebbc53210dd47ebbe7d1c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maku\.android\build-cache\575c61980e62a985b6bae16611da95129419b34a\output\jars\classes.jar"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Maku\AndroidStudioProjects\LatestNews\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8f2332b6a9494316f27393f8447e1653ad727f0d.jar" />
+    </item>
+
+</items>
